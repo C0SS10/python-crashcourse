@@ -10,7 +10,7 @@
 
 2. **Filtering & Sorting** - Chipotle Dataset
     - Practica cómo filtrar y ordenar datos para obtener la información que necesitas.
-    - [Ejercicio #2 hecho por mi]()
+    - [Ejercicio #2 hecho por mi](https://github.com/C0SS10/python-crashcourse/blob/main/02_Filtering_%26_Sorting_EstebanCossio.ipynb)
 
 3. **Grouping** - Alcohol Consumption Dataset
     - Aprende a agrupar datos para realizar análisis más avanzados.
