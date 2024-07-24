@@ -15,3 +15,7 @@
 3. **Grouping** - Alcohol Consumption Dataset
     - Aprende a agrupar datos para realizar análisis más avanzados.
     - [Ejercicio #3 hecho por mi]()
+
+## Recursos 💢
+
+Los ejercicios han sido extraídos de este [repositorio](https://github.com/guipsamora/pandas_exercises/blob/master/)
