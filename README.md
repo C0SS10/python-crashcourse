@@ -19,3 +19,5 @@
 ## Recursos 💢
 
 Los ejercicios han sido extraídos de este [repositorio](https://github.com/guipsamora/pandas_exercises/blob/master/)
+
+Hecho por: Carlos Esteban Cossio Gonzalez
