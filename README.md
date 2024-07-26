@@ -14,7 +14,7 @@
 
 3. **Grouping** - Alcohol Consumption Dataset
     - Aprende a agrupar datos para realizar análisis más avanzados.
-    - [Ejercicio #3 hecho por mi]()
+    - [Ejercicio #3 hecho por mi](https://github.com/C0SS10/python-crashcourse/blob/main/03_Grouping_Alcohol_Consumption_EstebanCossio.ipynb)
 
 ## Recursos 💢
 
